@@ -1,5 +1,5 @@
 ### Welcome 👋
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1000&pause=1000&random=false&width=435&lines=Hi%2C+I+am+Amandine;I+want+to+become;+a+developper+Full+Stack;So+I+am+studying+with+;the+Studi+platform+to+achieve+this" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=500&pause=1000&random=false&width=435&lines=Hi%2C+I+am+Amandine;I+want+to+become;+a+developper+Full+Stack;So+I+am+studying+with+;the+Studi+platform+to+achieve+this" alt="Typing SVG" /></a>
 <!--
 **A6miNo/A6mino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
