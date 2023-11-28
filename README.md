@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome 👋
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&random=false&width=435&lines=HI%2C+my+name+is+Amandine+;I+want+to+become+a+developper+Full+Stack;So+I+am+studying+with+the+Studi+platform+to+achieve+this;Welcome+in+my+Githubpage" alt="Typing SVG" /></a>
 <!--
 **A6miNo/A6mino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
